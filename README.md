@@ -27,7 +27,7 @@ The backend follows a **Layered Architecture** combined with principles of **Cle
 3.  **Service Layer:** Implements specific tasks such as sending emails, generating QR codes, or handling authentication logic.
 4.  **Repository Layer:** Manages all data access and communication directly with the database (Firebase).
 
-![Alt text](assets\architecture.png)
+![Alt text](assets/architecture.png)
 
 ## **Tech Stack**
 
@@ -54,7 +54,7 @@ The report includes:
 - Justification for the chosen technology stack.
 - User satisfaction survey results and analysis.
 
-View the Full Project Report [Here](assets\MOBILE_ASSIGNMENT_3_FINAL.pdf)
+View the Full Project Report [Here](assets/MOBILE_ASSIGNMENT_3_FINAL.pdf)
 
 ## **API Endpoints**
 
